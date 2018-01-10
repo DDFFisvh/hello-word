@@ -1,2 +1,3 @@
 # hello-word
-first repository i make on git hub
+First repository I made on git hub.
+My name is CC, and I'm new here, want to learn something about coding.
